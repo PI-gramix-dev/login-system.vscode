@@ -1,4 +1,4 @@
-# login-system.vscode
+# login-system-vscode-python
 
 from tkinter import *
 from functools import partial
